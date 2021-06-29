@@ -41,10 +41,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service.xiaomi_sm6150 \
 
-# Lights
-PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.xiaomi_sm6150
-
 # IR
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-impl \
